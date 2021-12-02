@@ -1,0 +1,373 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.headertop{   
+    background-color: rgb(247,247,247);
+    height: 100px;  
+    text-align: center;
+   
+}
+.tien{
+    padding: 25px 0px;
+    color: red;
+}
+.chu{  
+    padding: 40px 0px;
+    font-size: 13.5px;
+    font-family: Arial;
+}
+.anh{
+    padding: 25px 0px;
+}
+.chu1{
+    font-size: 18px;
+    font-family: Arial;
+   
+}
+.congcu{
+    display: block;
+    float: left;
+}
+.sdt{
+    
+    font-family: calibri;
+    font-size: 23px;
+    line-height: 40px;
+}
+.menu{
+    list-style: none;
+}
+.menu ul{
+    list-style-type: none;
+    text-align: center;
+}
+.menu li{
+    display: inline;
+    padding: 0px 34px ;
+}
+.menu li a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(63, 61, 61,0.7);
+    font-weight: 600;
+}
+.menu li a:hover{
+    color: rgb(63, 61, 61);
+}
+
+
+.kv1{
+    padding: 0px 80px;
+    display: inline-block;
+}
+.kv2{
+    padding: 15px 0px;
+}
+.kv3{
+    padding-top: 20px;
+}
+.vung{
+    padding: 0px 80px;
+}
+
+.vung a{
+    text-decoration: none;
+}
+.vitrichu{
+    text-align: center;
+    
+    padding: 5px 10px;
+}
+.chu2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: rgb(0, 0, 0,0.5);
+}
+.chu3{
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   font-weight: 700;
+}
+.chu4{
+    color: rgb(0, 0, 0,0.5);
+}
+.chu5{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+.thoitrang{
+   padding: 0px 80px;
+  
+}
+.thoitrang p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+    font-weight: 500;
+   
+   
+}
+.thoitrang ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 20px;
+}
+.thoitrang li a{
+    color: rgb(0, 0, 0,0.5);
+    text-decoration: none; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+.thoitrang a:hover{
+    color: black;
+    border-top: solid 3px red;
+}
+.vung1{
+    padding: 0px 80px;
+}
+.chen{
+    position: absolute;
+    z-index: 2; 
+    height: 150px;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.95);
+    top: 1840px;
+    left: 130px;
+}
+.chen1{
+    position: absolute;
+    z-index: 2; 
+    height: 330px;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.95);
+    top: 1520px;
+    left: 580px;
+}
+.chen2{
+    position: absolute;
+    z-index: 2; 
+    height: 150px;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.95);
+    top: 1840px;
+    left: 1040px;
+}
+.c0{
+    text-align: center;
+    padding-top: 10px;
+    line-height: 40px;
+}
+.c0 b:hover{
+    background-color: red;  
+}
+.c1{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c2{
+    font-size: 22px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.c3{
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255,0,0,0.6);   
+}
+.c3 a:hover{
+   background-color: red;
+}
+.z0{
+    line-height: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.z0 b:hover{
+    background-color: red;
+}
+.z1{
+    
+    font-weight: 500;
+    font-size: 15px;
+}
+.z2{
+    font-size: 25px;
+    font-family: 600;
+}
+.z3{
+    font-size: 50px;
+    font-weight: 600;
+}
+.z4{
+    font-size: 16px;
+}
+.bosuutap{
+    padding: 20px 0px ;
+}
+.chen4{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    height: 250px;
+    width: 500px;
+    background-color: white;
+    z-index: 2;
+    top: 3540px;
+    left: 480px;
+    text-align: center;
+}
+.x1{
+    
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 80px;
+    
+}
+.x2{
+    font-weight: 600;
+    font-size: 40px;
+}
+.x3{
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(255,0,0,0.7);
+    padding: 10px;
+    color: white;
+}
+.x3:hover{
+    background-color: red;
+}
+.Q1{
+    padding: 0px 80px;
+}
+.Q{
+   
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.Q a{
+    line-height: 55px;
+}
+.hr{
+    text-decoration-line:line-through;
+    color: white;
+    text-decoration-color: rgb(0, 0, 0,0.3);
+    user-select: none;
+    word-spacing: 900px; 
+}
+.tin{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+}
+.f{
+    padding: 0px 80px;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.f1{
+    font-size: 20px;
+    font-weight: 600;   
+    text-decoration: none;
+    color: black;
+}
+.f2{
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+}
+.logo0{
+    padding: 0px 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.logo{
+    padding: 10px;
+    background-color: rgb(165, 0, 0,0.8);
+    display: inline-block;
+    border-radius: 50%;
+    width: 20%;
+}
+.l{
+    line-height: 60px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.l1{
+    font-size: 14px;
+}
+.ftt{
+    padding: 30px 0px;
+}
+.ftb{
+    background-color: rgba(36,53,90,255);
+    height: 315px;
+    color: white;
+    padding: 0px 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.j1{
+    padding-top: 30px;  
+}
+.j2{
+    line-height: 60px;
+}
+.j3 a{
+    line-height: 60px;
+    font-size: 15px;
+}
+.hrr{
+    border: solid 0.1px rgb(255, 255, 255,0.3);
+     
+}
+.j4 ul{
+    
+}
+.j4 li{
+    list-style-type: none;
+    line-height: 35px;
+    font-size: 15px;
+}
+.j5 li a{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(255, 255, 255,0.7);
+    
+}
+.j5 li a:hover{
+    color: white;
+}
+.j6{
+    font-size: 15px;
+    line-height: 20px; 
+}
+.j7{
+    background-color:red;
+    padding: 13px;
+}
+.j7:hover{
+    background-color: rgb(255,0,0,0.6);
+}
+.timkiem{
+    margin: 15px 0px;
+    padding: 10px 20px;
+}
+
+
